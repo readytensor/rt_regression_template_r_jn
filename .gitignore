@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+.idea/
+test.py
+model_inputs_outputs/model/
+train.r
+predict.r
+.ipynb_checkpoints/
